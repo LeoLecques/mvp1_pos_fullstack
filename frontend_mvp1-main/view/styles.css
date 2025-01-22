@@ -1,0 +1,10 @@
+.icon-bg {
+  background-color: #28242c; /* Cor do cabeçalho (azul escuro) */
+  border-radius: 50%; /* Torna o fundo circular */
+  width: 250px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px; /* Centraliza o ícone e adiciona espaço abaixo */
+}
